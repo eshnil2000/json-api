@@ -13,7 +13,7 @@
         "id": "chat.rocket.cloudronapp",
         "title": "Rocket.Chat",
         "author": "RocketChat Developers",
-        "description": "This app packages Rocket.Chat <upstream>3.6.1</upstream>\n\n### Overview\n\nA complete team chat solution, from group messages and video calls all the way to helpdesk killer features.\n\n### Features\n* **Video Conference**\n    Chat with your colleagues and friends face-to-face over audio and video.\n* **Helpdesk Chat**\n    Have your website visitors contact you in real-time and increase conversions.\n* **File Sharing**\n    Drag-and-drop files or select them from your computer or mobile device.\n* **Voice Messages**\n    Record and transmit voice messages to a channel, group or private conversation.\n* **Link Preview**\n    Post a link and immediately view its content. YouTube, Twitter, Gifs!\n* **API**\n    Integrate your chat to multiple services: GitHub, GitLab, JIRA, Confluence and others.\n* **Extendability**\n    Want a new killing feature? Add a new package. It's as simple as that.\n* **Native Applications**\n    Native client applications available for download on Linux, Windows and OSX.\n* **Mobile Applications**\n    Mobile client applications available for iOS and Android on their respective stores.\n",
+        "description": "This app packages Rocket.Chat \n",
         "tagline": "The Complete Open Source Chat Solution",
         "version": "2.6.1",
         "healthCheckPath": "/",
@@ -38,7 +38,7 @@
           "slack",
           "teams"
         ],
-        "changelog": "* Update Rocket.Chat to 3.6.1\n* [Full changelog](https://github.com/RocketChat/Rocket.Chat/releases/tag/3.6.1)\n* File upload (Avatars, Emoji, Sounds) (#18841)\n* IE11 support livechat widget (#18850)\n* Omnichannel Current Chats open status filter not working (#18795)\n* Showing alerts during setup wizard (#18862)\n* User administration throwing a blank page if user has no role (#18851)\n* User can't invite or join other Omnichannel rooms (#18852)\n",
+        "changelog": "\n",
         "mediaLinks": [
           "https://screenshots.cloudron.io/chat.rocket.cloudronapp/1.png",
           "https://screenshots.cloudron.io/chat.rocket.cloudronapp/2.png",
@@ -48,7 +48,7 @@
         "minBoxVersion": "5.3.0",
         "forumUrl": "https://forum.cloudron.io/category/14/rocket-chat",
         "documentationUrl": "https://cloudron.io/documentation/apps/rocket.chat/",
-        "postInstallMessage": "On first visit, the app will show a welcome wizard to setup the admin account.\n\n<sso>\n\nPlease follow the following guidelines to complete the Rocket.Chat admin setup:\n\n* Use `admin` as the admin username in Rocket.Chat. This will avoid any conflict\n  with Cloudron usernames.\n\n* Use an email address that is different from the Cloudron primary email. This will avoid\n  any conflict with Cloudron email ids.\n\n</sso>\n",
+        "postInstallMessage": "This will avoid\n  any conflict with Cloudron email ids.\n\n</sso>\n",
         "dockerImage": "cloudron/chat.rocket.cloudronapp:20200912-190402-664389c66"
       },
       "featured": true,
