@@ -55,29 +55,6 @@
       "iconUrl": "https://api.cloudron.io/api/v1/apps/chat.rocket.cloudronapp/versions/2.6.1/icon",
       "ranking": 126,
       "installCount": 126
-    },
-    {
-      "creationDate": "2020-09-12T19:28:27.000Z",
-      "publishState": "approved",
-      "ownerId": "cd00534b-edca-4ea1-a88b-ee99603a4282",
-      "userId": "bfa555ee-8db7-4027-94f6-7409feafd4cb",
-      "visibility": "listed",
-      "releaseState": "stable",
-      "ts": "2015-10-25T15:26:18.000Z",
-      "manifest": {
-        "version": "0.1.0",
-        "healthCheckPath": "/",
-        "httpPort": 3000,
-        "addons": {
-          "localstorage": {}
-        },
-        "manifestVersion": 2,
-        "dockerImage": "eshnil2000/json-api:latest"
-      },
-      "featured": true,
-      "iconUrl": "https://api.cloudron.io/api/v1/apps/chat.rocket.cloudronapp/versions/2.6.1/icon",
-      "ranking": 126,
-      "installCount": 126
     }
   ]
 }
