@@ -65,6 +65,8 @@
       "releaseState": "stable",
       "ts": "2015-10-25T15:26:18.000Z",
       "manifest": {
+        "id": "json-api",
+        "version": "latest",
         "title": "JSON-API",
         "author": "RocketChat Developers",
         "description": "This app packages Rocket.Chat \n",
