@@ -38,7 +38,7 @@
           "slack",
           "teams"
         ],
-        "changelog": "\n",
+        "changelog": "the changelog has to be atleast 5 words long string\n",
         "mediaLinks": [
           "https://screenshots.cloudron.io/chat.rocket.cloudronapp/1.png",
           "https://screenshots.cloudron.io/chat.rocket.cloudronapp/2.png",
@@ -93,7 +93,7 @@
           "slack",
           "teams"
         ],
-        "changelog": "\n",
+        "changelog": "the changelog has to be atleast 5 words long string\n",
         "mediaLinks": [
           "https://screenshots.cloudron.io/chat.rocket.cloudronapp/1.png",
           "https://screenshots.cloudron.io/chat.rocket.cloudronapp/2.png",
